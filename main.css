@@ -1,3 +1,13 @@
 .nav_container .nav_opts{
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+}
 
+.nav_container .nav_opts li{
+    list-style-type: none;
+}
+
+.nav_container .nav_opts a{
+    text-decoration: none;
 }
